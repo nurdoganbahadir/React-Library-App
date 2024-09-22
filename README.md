@@ -1,4 +1,4 @@
-# Hi I'm Nurdoğan Bahadır 👋. Welcome to my Todo App Project with React.
+# Hi I'm Nurdoğan Bahadır 👋. Welcome to my Library App Project with React.
 
 This project was developed using React. Data was imported and used with Axios. Post, delete, get and put operations were done. With this project you can add, store and update data.
 
